@@ -9,5 +9,5 @@ Model Selection: Explored various classification models, including Decision Tree
 Model Training and Evaluation: Split data into train and test sets, trained models, and evaluated performance using metrics.
 Model Comparison: Analyzed and compared the performance of different models to select the most accurate one.
 
-Model Performance:
+Model performance:
 After evaluating several classification models, the Random Forest model emerged as the most accurate, achieving best accuracy score as compared to other classification model on the test dataset.
